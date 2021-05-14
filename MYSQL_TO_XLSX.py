@@ -47,5 +47,6 @@ def export():
     except Error as e:
         print("\nError while connecting to MySQL", e)
 
-
-export()
+        
+if __name__ == '__main__':
+    export()
