@@ -17,8 +17,8 @@ Required libraries:
 
 What do you need?
 
-- config parameters (host, user, password, db)  ->  it's a normal input prompt
-- tables list                                   ->  all your wished tables, separed by a ' , ' 
+- config parameters (host, user, password, db)  ->  It's a normal .txt file
+- tables list                                   ->  A normal .txt file with all your wished tables, separed by a ' , ' 
 
 An example:
 
